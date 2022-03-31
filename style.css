@@ -1,0 +1,40 @@
+@import url("components/container.css") ;
+@import url("components/avatar.css") ;
+@import url("components/button.css") ;
+@import url("components/banner.css") ;
+@import url("components/card.css") ;
+
+body {
+	font-family: bebas neue;
+	background-color : #468FAF;
+}
+
+h1 {
+	color: #000000;
+	font-size: 65px;
+	font-family: Bebas Neue ;
+}
+
+p {
+	color: #000000;
+	font-size: 25px;
+	font-family: Bebas Neue;
+	margin-left: 180px;
+}
+
+h3 {
+	color: #ffffff;
+	font-size: 25px;
+	font-family: Bebas Neue;
+}
+
+h2 {
+	color: #ffffff;
+	font-size: 25px;
+	font-family: Montserrat ;
+}
+
+.tourne {
+  writing-mode: vertical-rl;
+  text-orientation: mixed;
+}

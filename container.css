@@ -1,0 +1,19 @@
+.card-container {
+	display : flex;
+	justify-content: center;
+}
+
+.card-container2 {
+	display : flex;
+	justify-content: center;
+}
+
+.container {
+	display: flex;
+	
+}
+
+.card-container3 {
+	display : flex;
+	justify-content: space-between;
+}
